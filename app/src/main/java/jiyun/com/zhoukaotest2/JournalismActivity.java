@@ -26,11 +26,6 @@ import in.srain.cube.views.ptr.PtrFrameLayout;
 import jiyun.com.zhoukaotest2.Adapter.JournalismAdapter;
 import jiyun.com.zhoukaotest2.Bean.QueryWeixin;
 
-
-/**
- * Created by lx on 2017/5/3.
- */
-
 public class JournalismActivity extends Activity {
     private ListView mListView;
     private ArrayList<QueryWeixin.ResultBean.ListBean> mList = new ArrayList<>();
